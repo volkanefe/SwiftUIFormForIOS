@@ -1,6 +1,6 @@
 //
-//  testIOSApp.swift
-//  testIOS
+//  SwiftUIFormForIOS.swift
+//  SwiftUIFormForIOS
 //
 //  Created by VOLKAN EFE on 26.03.2024.
 //

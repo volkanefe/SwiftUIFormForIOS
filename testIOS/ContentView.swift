@@ -60,11 +60,11 @@ struct ContentView: View {
     }
 }
 
-//struct MyPreviewProvider_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ContentView()
-//    }
-//}
+struct MyPreviewProvider_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
 
 extension View {
     func hideKeyboard(){
